@@ -1,4 +1,4 @@
 # hello-world
 First time
 
-I'm mechanical engineer bachelor.
+I'm interested in programing.
